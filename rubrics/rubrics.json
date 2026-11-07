@@ -1,0 +1,18 @@
+{
+ "R_BEHAVIOR":{"name":"Behavioral interview coaching","criteria":[
+  {"id":"situation","label":"Describes the situation","weight":25,"references":["I explain the specific challenge or situation I faced.","There was a problem at work that needed attention."],"tip":"Describe the situation or challenge so the interviewer understands the context."},
+  {"id":"action","label":"Explains personal actions","weight":40,"references":["I took specific steps to solve the problem.","I communicated with coworkers, organized the work, and helped address the issue."],"tip":"Explain what you personally did, step by step."},
+  {"id":"result","label":"Explains the outcome","weight":35,"references":["I explain what happened as a result of my actions.","The team completed the work and I learned from the experience."],"tip":"Finish by explaining the result or what you learned."}]},
+ "R_CUSTOMER":{"name":"Customer service practice","criteria":[
+  {"id":"listen","label":"Listens respectfully","weight":30,"references":["I would listen carefully to the customer and acknowledge the concern."],"tip":"Start by listening to the customer's concern."},
+  {"id":"resolve","label":"Offers a solution","weight":45,"references":["I would verify the order and arrange an appropriate correction or replacement."],"tip":"Explain how you would correct the order within workplace policy."},
+  {"id":"escalate","label":"Seeks help when appropriate","weight":25,"references":["I would ask a manager for help if I could not resolve the issue."],"tip":"Mention when you would ask a supervisor for help."}]},
+ "R_SAFETY":{"name":"Construction safety practice","criteria":[
+  {"id":"recognize","label":"Recognizes hazard","weight":30,"references":["I would identify the unsafe condition and avoid exposing myself or others to danger."],"tip":"Explain how you recognize and avoid the hazard."},
+  {"id":"report","label":"Reports the hazard","weight":40,"references":["I would stop unsafe work and report the hazard to the site supervisor following safety procedures."],"tip":"Mention stopping unsafe work and notifying the appropriate supervisor."},
+  {"id":"procedure","label":"Follows site procedures","weight":30,"references":["I would follow site safety rules and only resume when authorized and safe."],"tip":"Explain that work should resume only when the hazard is addressed safely."}]},
+ "R_VEHICLE":{"name":"Vehicle inspection practice","criteria":[
+  {"id":"identify","label":"Identifies defect","weight":30,"references":["I would identify and document the defect during the pre-trip inspection."],"tip":"Describe how you would document the problem."},
+  {"id":"report","label":"Reports defect","weight":35,"references":["I would report the defect to maintenance or my supervisor according to company procedure."],"tip":"Explain whom you would notify."},
+  {"id":"safe","label":"Avoids unsafe operation","weight":35,"references":["I would not operate an unsafe vehicle until the problem is properly addressed."],"tip":"Emphasize that you would not drive an unsafe vehicle."}]}
+}

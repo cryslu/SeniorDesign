@@ -15,7 +15,8 @@
       "Explains reasoning behind the chosen approach",
       "Uses evidence or feedback to assess progress",
       "Clearly describes the outcome"
-    ]
+    ],
+    "audio_file": "audio/1.wav"
   },
   {
     "id": 2,
@@ -33,7 +34,8 @@
       "Listens to and considers differing perspectives",
       "Communicates their own view respectfully",
       "Focuses on reaching a productive resolution"
-    ]
+    ],
+    "audio_file": "audio/2.wav"
   },
   {
     "id": 3,
@@ -51,7 +53,8 @@
       "Identifies practical steps to address the issue",
       "Communicates risks and progress proactively",
       "Explains the final result and lessons learned"
-    ]
+    ],
+    "audio_file": "audio/3.wav"
   },
   {
     "id": 4,
@@ -69,7 +72,8 @@
       "Acknowledges their own contribution to the failure",
       "Takes corrective action",
       "Demonstrates a concrete lesson or behavior change"
-    ]
+    ],
+    "audio_file": "audio/4.wav"
   },
   {
     "id": 5,
@@ -87,7 +91,8 @@
       "Makes deliberate trade-offs",
       "Communicates constraints and expectations",
       "Explains how the priorities affected the outcome"
-    ]
+    ],
+    "audio_file": "audio/5.wav"
   },
   {
     "id": 6,
@@ -105,7 +110,8 @@
       "Reflects thoughtfully on the feedback",
       "Takes specific action to improve",
       "Shows evidence of growth"
-    ]
+    ],
+    "audio_file": "audio/6.wav"
   },
   {
     "id": 7,
@@ -123,7 +129,8 @@
       "Uses effective learning strategies and resources",
       "Applies new knowledge in practice",
       "Explains the result and remaining areas for growth"
-    ]
+    ],
+    "audio_file": "audio/7.wav"
   },
   {
     "id": 8,
@@ -141,7 +148,8 @@
       "Influences through communication or example rather than title",
       "Creates space for others to contribute",
       "Connects their actions to the group's outcome"
-    ]
+    ],
+    "audio_file": "audio/8.wav"
   },
   {
     "id": 9,
@@ -159,7 +167,8 @@
       "Weighs risks, benefits, and alternatives",
       "Makes a reasoned decision rather than avoiding it",
       "Monitors the outcome and adjusts when appropriate"
-    ]
+    ],
+    "audio_file": "audio/9.wav"
   },
   {
     "id": 10,
@@ -177,7 +186,8 @@
       "Distinguishes personal contribution from the team's work",
       "Describes measurable or observable impact",
       "Reflects on why the accomplishment was meaningful"
-    ]
+    ],
+    "audio_file": "audio/10.wav"
   },
   {
     "id": 11,
@@ -195,7 +205,8 @@
       "Asks useful clarifying questions",
       "Makes and validates reasonable assumptions",
       "Creates a clear plan and delivers a relevant result"
-    ]
+    ],
+    "audio_file": "audio/11.wav"
   },
   {
     "id": 12,
@@ -213,7 +224,8 @@
       "Adapts communication to the audience",
       "Contributes reliably toward a shared goal",
       "Explains how collaboration improved the result"
-    ]
+    ],
+    "audio_file": "audio/12.wav"
   },
   {
     "id": 13,
@@ -231,7 +243,8 @@
       "Acts proactively rather than waiting for direction",
       "Builds support or handles implementation barriers",
       "Explains the improvement's impact"
-    ]
+    ],
+    "audio_file": "audio/13.wav"
   },
   {
     "id": 14,
@@ -249,7 +262,8 @@
       "Explains the core idea clearly and accurately",
       "Checks for understanding",
       "Describes the effect of the communication"
-    ]
+    ],
+    "audio_file": "audio/14.wav"
   },
   {
     "id": 15,
@@ -267,6 +281,7 @@
       "Demonstrates sustained effort",
       "Describes how they responded to setbacks",
       "Reflects on what the experience reveals about their values"
-    ]
+    ],
+    "audio_file": "audio/15.wav"
   }
 ]
